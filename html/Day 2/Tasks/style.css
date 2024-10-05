@@ -1,0 +1,21 @@
+.cars{
+    text-align: center;
+    color: red;
+}
+ 
+.all{
+   background-color: beige;
+}
+
+.li{
+    background-color: rgb(239, 239, 160);
+}
+
+.types-img{
+    text-align: center;
+    padding-top: 50px;
+   
+}
+.type{
+    text-align: center;
+}
